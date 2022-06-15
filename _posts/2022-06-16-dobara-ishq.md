@@ -1,7 +1,7 @@
 ---
 title: Dobara ishq
 author: JD
-category: poetry
+category: literature
 layout: post
 ---
 

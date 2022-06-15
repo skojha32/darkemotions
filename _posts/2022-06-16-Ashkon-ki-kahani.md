@@ -2,7 +2,7 @@
 title: "Ashkon ki kaahani"
 layout: post
 author: "JD"
-categories: one-liner
+categories: literature
 ---
 
 Behisab beheti rahi aankhe meri or Tari palke tak Nam nahi 
